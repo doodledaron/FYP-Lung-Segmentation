@@ -1,0 +1,4 @@
+RawData/Task001_Lung
+nnUNet_raw/Dataset001_Lung
+nnUNet_preprocessed/Dataset001_Lung
+nnUNet_results/Dataset001_Lung/nnUNetTrainer_1epoch__nnUNetPlans__3d_fullres
